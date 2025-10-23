@@ -1,6 +1,5 @@
 👋 Hi, I’m Christian
 
-🌱 I’m currently learning  about .net 5, grpc, blazor and xamarin on my sparetime.
-
+.net developer interested in all kind of technology.
 
  
